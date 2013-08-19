@@ -9,7 +9,7 @@
 
   var express = require('express');
   var http = require('http');
-  var index = require('./routes/index.js');
+  var index = require('./controllers/index.js');
 
   var app = express();
           
