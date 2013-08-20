@@ -2,9 +2,9 @@
   "name": "Adviser",
   "version": "0.1.0",
   "author": "Zotov Andrey <zotov.andrey@gmail.com>",
-  "description": "A simple boilerplate for building node applications on Windows Azure (or wherever)",
+  "description": "New Web Interactivity",
   "scripts": { "start": "node server.js" },
-  "dependencies": { "express": "3.0.x" },
+  "dependencies": { "express": "3.0.x", "jade": "*", "stylus": "*", "nib": "*" },
   "contributors": [ 
     {
       "name": "Justin Beckwith",
